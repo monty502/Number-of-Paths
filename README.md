@@ -16,4 +16,4 @@ Time complexity should be O(n^2). Space complexity O(n).
 Example:
 input:  n = 4
 output: 5 
-  # since there are five possibilities: “LLLUUU”, “LLULUU”, “LULLUU”, “LULULU”, “LLUULU”
+  Since there are five possibilities: “LLLUUU”, “LLULUU”, “LULLUU”, “LULULU”, “LLUULU”
