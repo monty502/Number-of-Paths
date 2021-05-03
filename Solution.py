@@ -4,7 +4,7 @@ def num_of_paths_to_dest(n):
   
   for row in range(1, n):
     for col in range(row, n):
-      # if cell is on diagnol, the only paths are from below
+      # if cell is on diagnal line, the only paths are from below
       # otherwise, the paths are either from below, or from left
       if col > row:
         dp[col] += dp[col - 1]
