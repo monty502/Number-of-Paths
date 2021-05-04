@@ -3,7 +3,7 @@ You start from bottom-left corner of an n×n grid, and go to top-right corner of
 
 ![Screenshot](grid.png)
 
-The car may move only in the white squares
+You may move only in the white squares
 
 Each square in the grid is represented as a pair (i,j). The first coordinate denotes the horizontal axis, and the second coordinate denotes the vertical axis. The initial state of the car is (0,0), and the destination is (n-1,n-1).
 
